@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ben-labat
 - 👀 I’m interested in Data Engineering, Analytics, AI/ML, & Game Dev
-- 🌱 I’m currently learning Advanced SQL, PHP, & Python
+- 🌱 I’m currently learning PHP, & Python
 
 <!---
 ben-labat/ben-labat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
